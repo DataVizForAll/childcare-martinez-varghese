@@ -1,8 +1,6 @@
-# dataviz-story-template
-DataVizForAll.org story template using modified Bootstrap
+# live view
+https://datavizforall.org/childcare-martinez-varghese/
 
-## Live view (replace with your own published link in Settings > Pages)
+## forked from original
 https://angelinavarghese.github.io/childcare-martinez-varghese/
 
-## Instructions
-Read steps inside the `index.html` file
